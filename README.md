@@ -1,2 +1,2 @@
 # MindustryMapsDownloaderScript
-Downloads all maps from the official mindustry #maps channel to your local computer
+Downloads all maps or schematics from the official mindustry #maps and #schematic channel to your local computer, can be configured with other file extensions and channels
